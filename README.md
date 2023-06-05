@@ -4,6 +4,7 @@ Este é um projeto de um dashboard em tempo real, desenvolvido com um backend em
 
 O objetivo deste projeto é fornecer uma solução completa para a visualização de dados em tempo real, com um backend em Flask que recebe e processa os dados em tempo real, e um frontend em Vue.js que oferece uma interface de usuário dinâmica e responsiva.
 
+![GIF animado](frontend.gif)
 
 ### Tecnologias Utilizadas
 Python Flask: Um framework web em Python que permite a construção de aplicativos web rápidos e escaláveis.
